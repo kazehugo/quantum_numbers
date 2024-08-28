@@ -33,8 +33,7 @@ Validates input: Ensures that the entered quantum numbers are within the allowed
 Calculates atomic number: Determines the atomic number based on the quantum numbers.
 Looks up element: Searches for the element name in the pre-defined database using the calculated atomic number.
 Displays result: Prints the identified element or an error message if the quantum numbers are invalid.
-Database:
-The script uses a database of elements that maps atomic numbers to their corresponding names. This database is included in the elements.py file.
+Database: The script uses a database of elements that maps atomic numbers to their corresponding names. This database is included in the elements.py file.
 
 **Notes:**
 Database scope: The database currently includes elements up to atomic number 100.
